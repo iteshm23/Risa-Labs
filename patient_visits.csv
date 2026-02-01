@@ -1,0 +1,66 @@
+Patient_ID,Visit_Date,Visit_Number,CEA,Hemoglobin,Performance_Status,Radiology_Trend,Treatment_Line,Response,Notes
+PT-001,2024-12-08,1,52.8,10.2,ECOG 3,Stable,1,PD,Visit 1: Routine follow-up
+PT-001,2025-04-10,2,48.0,10.0,ECOG 1,Stable,2,PD,Visit 2: Toxicity review
+PT-001,2025-08-11,3,43.2,9.6,ECOG 1,Worsening,3,SD,Visit 3: Toxicity review
+PT-001,2025-12-12,4,38.4,9.1,ECOG 2,Stable,4,SD,Visit 4: Disease assessment
+PT-002,2024-12-07,1,9.2,12.8,ECOG 0,Stable,1,SD,Visit 1: Toxicity review
+PT-002,2025-02-24,2,11.2,12.9,ECOG 1,Worsening,2,PR,Visit 2: Toxicity review
+PT-002,2025-05-14,3,13.1,12.9,ECOG 1,Stable,2,PR,Visit 3: Toxicity review
+PT-002,2025-08-01,4,15.1,12.1,ECOG 0,Worsening,3,PD,Visit 4: Toxicity review
+PT-002,2025-10-19,5,17.0,12.5,ECOG 0,Worsening,3,SD,Visit 5: Toxicity review
+PT-002,2026-01-06,6,19.0,12.1,ECOG 0,Improving,4,SD,Visit 6: Post-chemo
+PT-003,2024-11-07,1,47.7,12.1,ECOG 3,Improving,1,PD,Visit 1: Post-chemo
+PT-003,2025-01-22,2,50.3,12.1,ECOG 3,Worsening,2,SD,Visit 2: Routine follow-up
+PT-003,2025-04-07,3,45.6,11.7,ECOG 3,Stable,2,PR,Visit 3: Post-chemo
+PT-003,2025-06-22,4,48.3,11.6,ECOG 1,Worsening,3,SD,Visit 4: Toxicity review
+PT-003,2025-09-05,5,51.5,11.1,ECOG 3,Stable,3,PD,Visit 5: Post-chemo
+PT-003,2025-11-20,6,47.2,10.9,ECOG 1,Worsening,4,PR,Visit 6: Routine follow-up
+PT-004,2024-05-10,1,68.7,12.5,ECOG 0,Stable,1,PD,Visit 1: Disease assessment
+PT-004,2024-09-12,2,64.7,12.3,ECOG 0,Worsening,2,SD,Visit 2: Toxicity review
+PT-004,2025-01-15,3,60.6,12.1,ECOG 0,Worsening,2,SD,Visit 3: Disease assessment
+PT-004,2025-05-20,4,56.6,12.4,ECOG 1,Stable,3,SD,Visit 4: Disease assessment
+PT-004,2025-09-22,5,52.5,11.6,ECOG 1,Improving,3,PD,Visit 5: Toxicity review
+PT-004,2026-01-25,6,48.5,12.3,ECOG 0,Improving,4,SD,Visit 6: Toxicity review
+PT-005,2023-04-19,1,45.7,12.8,ECOG 1,Improving,1,SD,Visit 1: Routine follow-up
+PT-005,2023-09-23,2,43.3,12.5,ECOG 0,Improving,1,SD,Visit 2: Routine follow-up
+PT-005,2024-02-27,3,47.0,12.6,ECOG 1,Improving,2,SD,Visit 3: Post-chemo
+PT-005,2024-08-02,4,42.8,12.2,ECOG 0,Stable,2,PD,Visit 4: Toxicity review
+PT-005,2025-01-06,5,48.2,12.0,ECOG 1,Worsening,3,SD,Visit 5: Disease assessment
+PT-005,2025-06-12,6,48.0,11.8,ECOG 0,Worsening,3,PR,Visit 6: Routine follow-up
+PT-005,2025-11-16,7,44.3,11.9,ECOG 0,Improving,4,PD,Visit 7: Routine follow-up
+PT-006,2025-01-13,1,41.0,13.0,ECOG 3,Improving,1,SD,Visit 1: Post-chemo
+PT-006,2025-03-16,2,38.9,12.8,ECOG 1,Stable,1,PR,Visit 2: Disease assessment
+PT-006,2025-05-17,3,36.3,12.9,ECOG 1,Worsening,2,SD,Visit 3: Post-chemo
+PT-006,2025-07-18,4,34.9,13.1,ECOG 2,Worsening,2,PD,Visit 4: Post-chemo
+PT-006,2025-09-18,5,37.4,12.6,ECOG 1,Stable,3,PD,Visit 5: Disease assessment
+PT-006,2025-11-19,6,37.1,12.3,ECOG 2,Stable,3,PD,Visit 6: Post-chemo
+PT-006,2026-01-21,7,34.2,11.8,ECOG 3,Stable,4,PD,Visit 7: Toxicity review
+PT-007,2022-10-28,1,21.1,9.0,ECOG 1,Stable,1,PR,Visit 1: Post-chemo
+PT-007,2023-06-22,2,20.8,8.9,ECOG 1,Worsening,2,SD,Visit 2: Routine follow-up
+PT-007,2024-02-14,3,23.3,8.6,ECOG 1,Improving,2,PD,Visit 3: Routine follow-up
+PT-007,2024-10-08,4,23.0,8.4,ECOG 1,Improving,3,PD,Visit 4: Disease assessment
+PT-007,2025-06-02,5,20.1,8.9,ECOG 1,Worsening,3,PD,Visit 5: Post-chemo
+PT-007,2026-01-25,6,21.8,7.7,ECOG 2,Improving,4,SD,Visit 6: Toxicity review
+PT-008,2024-10-10,1,21.0,10.7,ECOG 2,Improving,1,PR,Visit 1: Disease assessment
+PT-008,2025-02-21,2,19.1,10.7,ECOG 1,Improving,2,PR,Visit 2: Post-chemo
+PT-008,2025-07-05,3,17.2,10.0,ECOG 1,Worsening,3,PD,Visit 3: Disease assessment
+PT-008,2025-11-17,4,15.3,9.7,ECOG 1,Stable,4,SD,Visit 4: Disease assessment
+PT-009,2023-01-15,1,17.6,10.2,ECOG 2,Worsening,1,PD,Visit 1: Toxicity review
+PT-009,2023-12-27,2,19.4,9.6,ECOG 3,Improving,2,SD,Visit 2: Routine follow-up
+PT-009,2024-12-06,3,16.9,10.1,ECOG 3,Worsening,3,PD,Visit 3: Disease assessment
+PT-009,2025-11-17,4,18.0,9.0,ECOG 3,Improving,4,PD,Visit 4: Post-chemo
+PT-010,2024-12-31,1,40.5,9.1,ECOG 1,Stable,1,PD,Visit 1: Post-chemo
+PT-010,2025-02-21,2,46.1,9.0,ECOG 0,Worsening,1,SD,Visit 2: Toxicity review
+PT-010,2025-04-15,3,41.4,9.3,ECOG 3,Stable,2,SD,Visit 3: Routine follow-up
+PT-010,2025-06-06,4,41.2,8.5,ECOG 3,Stable,2,SD,Visit 4: Disease assessment
+PT-010,2025-07-29,5,46.3,8.5,ECOG 1,Stable,3,PD,Visit 5: Post-chemo
+PT-010,2025-09-19,6,48.3,8.5,ECOG 0,Worsening,3,SD,Visit 6: Disease assessment
+PT-010,2025-11-11,7,40.6,8.7,ECOG 0,Stable,4,PR,Visit 7: Disease assessment
+PT-011,2023-01-28,1,7.6,10.5,ECOG 1,Worsening,1,PD,Visit 1: Disease assessment
+PT-011,2024-01-15,2,9.8,10.9,ECOG 1,Improving,2,PR,Visit 2: Toxicity review
+PT-011,2025-01-01,3,12.0,10.8,ECOG 0,Worsening,3,PD,Visit 3: Routine follow-up
+PT-011,2025-12-19,4,14.2,10.8,ECOG 1,Improving,4,PR,Visit 4: Post-chemo
+PT-012,2024-05-11,1,18.6,9.0,ECOG 3,Improving,1,PD,Visit 1: Post-chemo
+PT-012,2024-11-23,2,16.9,8.7,ECOG 1,Stable,2,PR,Visit 2: Routine follow-up
+PT-012,2025-06-07,3,15.2,9.0,ECOG 1,Improving,3,PD,Visit 3: Disease assessment
+PT-012,2025-12-20,4,13.5,8.1,ECOG 1,Worsening,4,PR,Visit 4: Post-chemo
